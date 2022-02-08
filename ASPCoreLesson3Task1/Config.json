@@ -1,0 +1,21 @@
+{
+  "Companies": {
+
+    "Apple": {
+      "Name": "Apple",
+      "Workers": 200
+    },
+
+    "Google": {
+      "Name": "Google",
+      "Workers": 300
+    },
+
+    "Microsoft": {
+      "Name": "Microsoft",
+      "Workers": 400
+    }
+
+  }
+
+}
